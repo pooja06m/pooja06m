@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pooja06m
-- 👀 A passionate Data Engineer from India
-- 🌱 I’m currently learning ML
+- 👀 GitHub UX Designer turned Coding Enthusiast
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 poojamallick611@gmail.com 
 
