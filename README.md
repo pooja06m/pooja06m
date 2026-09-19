@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pooja06m
 - 👀 GitHub UX Designer turned Coding Enthusiast
-- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 poojamallick611@gmail.com 
 
